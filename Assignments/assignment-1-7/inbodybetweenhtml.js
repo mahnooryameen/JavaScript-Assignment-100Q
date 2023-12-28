@@ -1,0 +1,1 @@
+alert("this one is in the body and inside page html")
